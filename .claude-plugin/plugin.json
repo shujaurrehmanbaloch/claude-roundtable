@@ -1,0 +1,11 @@
+{
+  "name": "claude-roundtable",
+  "displayName": "Claude Roundtable",
+  "version": "1.0.0",
+  "description": "Bring routed frontier models into the Claude Code harness as a roundtable: consult, critique, and implement with Sol, Terra, Luna, or other subscription-backed models via CLIProxyAPI.",
+  "author": { "name": "Shuja" },
+  "license": "MIT",
+  "keywords": ["models", "routing", "proxy", "consult", "critique"],
+  "commands": ["./commands/"],
+  "skills": "./skills/"
+}

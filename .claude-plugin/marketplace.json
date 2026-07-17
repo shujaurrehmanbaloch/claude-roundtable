@@ -1,0 +1,11 @@
+{
+  "name": "claudex",
+  "owner": { "name": "Shuja" },
+  "plugins": [
+    {
+      "name": "claude-roundtable",
+      "source": "./",
+      "description": "Bring routed frontier models into one Claude Code roundtable for consult, critique, and implementation."
+    }
+  ]
+}
